@@ -1,0 +1,17 @@
+{
+  "name": "retrieve_passport",
+  "version": "1.0.0",
+  "description": "Use Gitcoin passport sdk to retrieve passport data from ceramic network",
+  "main": "index.js",
+  "author": "Poupou",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "@gitcoinco/passport-sdk-reader": "^0.1.4",
+    "csv-parser": "^3.0.0",
+    "csv-writer": "^1.6.0",
+    "fs": "^0.0.1-security"
+  },
+  "repository": "https://github.com/poupou-web3/retrieve-passport-data",
+  "private": true
+}
